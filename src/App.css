@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    width: 100vw;
+  }
+
+.App {
+    height: 100%;
+    width: 100%;
+}
+
+.Nav {
+    height: 20%;
+    width: 100%;
+}
+
+.container{
+    height: 80%;
+    width: 100%;
+}
