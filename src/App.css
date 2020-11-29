@@ -1,18 +1,25 @@
 body {
-    height: 100%;
-    width: 100%;
-
-  }
-.App {
-    height: 100%;
-    width: 100%;
-}
-.Nav {
-    height: 20vh;
+    height: 100vh;
     width: 100vw;
+    margin: 0;
 }
 
-.container{
-    height: 80vh;
+.banner {
+    display: flex;
+    justify-content: center;
+    background-color: #f7eef1;
+}
+
+.banner-image {
+    height: 250px;
+}
+
+.Nav {
+    height: 20%;
+    width: 100%;
+}
+
+.container {
+    height: 80%;
     width: 100%;
 }
