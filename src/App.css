@@ -6,12 +6,11 @@ body {
 
 .banner {
     display: flex;
-    justify-content: center;
-    background-color: #f7eef1;
 }
 
 .banner-image {
     height: 250px;
+    width: 100%;
 }
 
 .Nav {
