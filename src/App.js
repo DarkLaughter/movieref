@@ -1,6 +1,6 @@
 import React from 'react'
 import Banner from './components/Banner'
-import Nav from './components/Nav'
+import Search from './components/Search'
 import Container from './components/Container'
 import "./app.css"
 
@@ -8,7 +8,7 @@ function App() {
     return (
         <div>
           <Banner/>
-          <Nav/>
+          <Search/>
           <Container/>
         </div>
     )
