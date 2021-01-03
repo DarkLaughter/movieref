@@ -14,6 +14,7 @@ const Search = () => {
     return (
         <div className="search">
             <input style={searchStyle}></input>
+            {"\n"}
             <button>Search</button>
         </div>
     )
